@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
+title: 学习的路
 subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+name: 学习的路
+email: xyoko@qq.com
+description:学习为目的,Java,golang,
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -56,32 +55,32 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /money.html
+    href: /xysokolern/money.html
     label: 挣钱
     target: _self
 
   -
-    href: /life.html
+    href: /xysokolern/life.html
     label: 故事
     target: _self
 
   -
-    href: /arch.html
+    href: /xysokolern/arch.html
     label: 架构
     target: _self
 
   -
-    href: /payment.html
+    href: /xysokolern/payment.html
     label: 支付     
     target: _self
 
   -
-    href: /link.html
+    href: /xysokolern/link.html
     label: 友链
     target: _self
 
   -
-    href: /about.html
+    href: /xysokolern/about.html
     label: 关于
     target: _self
 
@@ -90,41 +89,41 @@ menus:
 navs:
 
   -
-    href: /
+    href: /xysokolern/
     label: Home
 
   -
-    href: /spring-boot.html
+    href: /xysokolern/spring-boot.html
     label: Spring Boot
     target: _self
     subnav:
 
       -
-        subHref: /spring-boot.html
+        subHref: /xysokolern/spring-boot.html
         subLabel: Spring Boot
 
       -
-        subHref: /spring-cloud.html
+        subHref: /xysokolern/spring-cloud.html
         subLabel: Spring Cloud
 
   -
-    href: /spring-cloud.html
+    href: /xysokolern/spring-cloud.html
     label: Spring Cloud
     target: _self
 
   -
     
-    href: /java.html
+    href: /xysokolern/java.html
     label: Java
     target: _self
 
   -
-    href: /archives.html
+    href: /xysokolern/archives.html
     label: Archives
     target: _self
 
   -
-    href: /about.html
+    href: /xysokolern/about.html
     label: About
     target: _self
 
@@ -133,32 +132,32 @@ navs:
 labels:
 
   -
-    href: /fastdfs.html
+    href: /xysokolern/fastdfs.html
     label: FastDFS
     target: _blank
 
   -
-    href: /mongodb.html
+    href: /xysokolern/mongodb.html
     label: MongoDB
     target: _blank
 
   -
-    href: /docker.html
+    href: /xysokolern/docker.html
     label: Docker
     target: _blank
 
   -
-    href: /open-source.html
+    href: /xysokolern/open-source.html
     label: Code  
     target: _blank
 
   -
-    href: /it.html
+    href: /xysokolern/it.html
     label: It 
     target: _blank
 
   -
-    href: /python.html
+    href: /xysokolern/python.html
     label: Python  
     target: _blank
 
@@ -167,17 +166,17 @@ labels:
 classes:
 
   -
-    href: /life.html
+    href: /xysokolern/life.html
     name: 我的故事
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
+    href: /xysokolern/arch.html
     name: 架构师之路
     describe: 一个架构师的自我修养
 
   -
-    href: /java.html
+    href: /xysokolern/java.html
     name: Java 系列文章
     describe: Java 之根基，Java 程序员必学
 
@@ -185,7 +184,7 @@ classes:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+subscribe_rss: /xysokolern/feed.xml
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
